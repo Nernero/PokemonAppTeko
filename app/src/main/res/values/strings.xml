@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ash</string>
+    <string name="nav_header_subtitle">ash@pokedex.pikachu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pokedex</string>
+
+    <string name="catch_ability">Ability</string>
+    <string name="catch_type">Type</string>
+    <string name="catch_name">Name</string>
+    <string name="menu_home">Catch</string>
+    <string name="menu_list">Deck List</string>
+
+</resources>
